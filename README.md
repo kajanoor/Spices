@@ -1,0 +1,2 @@
+# Spices
+The spices factory
